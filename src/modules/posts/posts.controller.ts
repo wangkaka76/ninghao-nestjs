@@ -1,4 +1,4 @@
-import { Controller, Get, Req, Query, Headers, Param, Body, Post, HttpException, HttpStatus, ForbiddenException, UseFilters, UsePipes, ValidationPipe, ParseIntPipe, UseGuards} from '@nestjs/common';
+import { Controller, Get, Req, Query, Headers, Param, Body, Post, HttpException, HttpStatus, ForbiddenException, UseFilters, UsePipes, ValidationPipe, ParseIntPipe, UseGuards, SetMetadata} from '@nestjs/common';
 import bodyParser = require('body-parser');
 import { CreatePostDto } from './posts.dto';
 import {DemoService} from './providers/demo/demo.service';
@@ -27,6 +27,7 @@ export class PostsController {
     @Post()
     // @UseFilters(DemoFilter)
     @UsePipes(ValidationPipe)
+    @SetMetadata('roles', ['member'])
     // @UseGuards(DemoAuthGuard)
     Store(@Body() post: CreatePostDto) {
         // throw new HttpException('没有权限！', HttpStatus.FORBIDDEN);
