@@ -9,6 +9,7 @@ import { LoggingInterceptor } from '../../../dist/core/interceptors/logging.inte
 import { TransformInterceptor } from '../../core/interceptors/transform.interceptor';
 import { ErrorsInterceptor } from '../../core/interceptors/errors.interceptor';
 import { User } from '../../../dist/core/decorators/user.decorator';
+import { DemoPipe } from '../../core/pipes/demo.pipe';
 
 @Controller('posts')
 // @UseFilters(DemoFilter)
@@ -25,7 +26,7 @@ export class PostsController {
         // return this.demoService.findAll();
     }
     @Get(':id')
-    Show(@Param('id', ParseIntPipe) id) {
+    Show(@Param('id', ParseIntPipe, DemoPipe) id) {
         console.log('id:',typeof id);
 
         return{
