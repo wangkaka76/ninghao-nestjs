@@ -2078,12 +2078,12 @@
         "signature": "4a049cf30c883c9fb2b9ebf6f74814e17a54bf57d34cc3c24192499b7e52a366"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts": {
-        "version": "ea445f51ebe4812d5feb68303824b66432b53bd99a904e4496bbba400d957c47",
-        "signature": "573bffbcc1551c34c6751d8de8ae38705169753afa24b984771a1bd0fcb24597"
+        "version": "2c39ed27464cdae699f897e51b590c531c94b31f5636883e86b4c6030b252474",
+        "signature": "aa86f95d63f2a1e91ad9506ff532fbb0dbe6cc9061656da07b394cada8ea6ccc"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts": {
-        "version": "0901700373862af23389f074df101801002949c7716268a9be9e8b635f2a55f3",
-        "signature": "41882bd062431f49a75407faf848d721ce4ece074e59f12086c364d2b16fc532"
+        "version": "5ff091fbf9fb1f4106708fb5180bb0b1681ba99b3e25844a2d1b85efcd92a9ec",
+        "signature": "7321f0d0b84ce36dd10b206cbe802eb4a2f5bc9dd9c1197f230fe7053d341a1f"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts": {
         "version": "67af9d402c0c24dc19ec1e40043458718fe55fcad1f027f9fc6ae2d8ef9f0669",
@@ -9158,6 +9158,10 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts"
       ],
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts"
+      ],
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/http-adapter.d.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/common/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/common/interfaces/index.d.ts",
@@ -9414,10 +9418,6 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/superagent/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -9940,8 +9940,6 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/dist/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/app.module.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/constants.d.ts",
@@ -9983,8 +9981,10 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/json5/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/superagent/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/supertest/index.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts"
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/app.module.ts"
     ]
   },
   "version": "3.4.3"
