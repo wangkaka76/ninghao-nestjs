@@ -1,4 +1,4 @@
-import { Controller, Post, Body, Get, Put, Param } from '@nestjs/common';
+import { Controller, Post, Body, Get, Put, Param, Delete } from '@nestjs/common';
 import { PostService } from './post.service';
 import { puts } from 'util';
 import { async } from 'rxjs/internal/scheduler/async';
@@ -22,5 +22,10 @@ export class PostController {
     @Put(':id')
     async update(@Param('id') id: string, @Body() data) {
         return await this.postService.update(id, data);
+    }
+
+    @Delete(':id')
+    async destroy(@Param('id') id: string) {
+        return await this.postService.destroy(id);
     }
 }

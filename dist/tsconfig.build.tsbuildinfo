@@ -2078,12 +2078,12 @@
         "signature": "4a049cf30c883c9fb2b9ebf6f74814e17a54bf57d34cc3c24192499b7e52a366"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts": {
-        "version": "b501742e537daa047986473562d013600ee16d547377babe98e92873eb53a279",
-        "signature": "a1fd628f2db0ac11035339bb9d396e929d34b542a265eb71e1440d765c8e6e3d"
+        "version": "6b05918927f9897191b4e6472fae7012185f7bac5536efef38b075ab20a4001e",
+        "signature": "576ecf6b245bc164b04d6b22afef0b0a2d27098edc8081498e02da15c6830d51"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts": {
-        "version": "062efee7a72d0aeb372185d59451aae34c2ed2ad59622494c60e94ac64df1e43",
-        "signature": "2832e6c79f6dec7d368b10f69790475e79b05a6d3ef9ba28f76ac0decd2b0e92"
+        "version": "621dcdfdbde0762fb9ec21aa361297e0bc08f3c2417a37dc59ce1c8e1f813bf8",
+        "signature": "9e274f38883cbb58f94f9fc965694475b51e7de3b0a0b9d92ccd47ac225f9beb"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts": {
         "version": "67af9d402c0c24dc19ec1e40043458718fe55fcad1f027f9fc6ae2d8ef9f0669",
@@ -9943,8 +9943,6 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/app.module.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/index.d.ts",
@@ -9986,7 +9984,9 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/jest/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/json5/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/superagent/index.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/supertest/index.d.ts"
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/supertest/index.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts"
     ]
   },
   "version": "3.4.3"
