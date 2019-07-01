@@ -2074,7 +2074,7 @@
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts": {
-        "version": "44a2854e8e7330f285c847195f2a0993f787603fca334b7b1d9a92c4930c1bff",
+        "version": "353e6b05f5a7254936512e93d1e6b5915255417d7330b7bb5958ab05ecb80db4",
         "signature": "4a049cf30c883c9fb2b9ebf6f74814e17a54bf57d34cc3c24192499b7e52a366"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts": {
@@ -9941,8 +9941,9 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/dist/typeorm.module.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/dist/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/index.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/app.module.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/index.d.ts",
@@ -9985,8 +9986,7 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/json5/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/superagent/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/supertest/index.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts"
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts"
     ]
   },
   "version": "3.4.3"
