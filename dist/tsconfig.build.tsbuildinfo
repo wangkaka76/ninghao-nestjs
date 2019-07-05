@@ -2093,9 +2093,13 @@
         "version": "67af9d402c0c24dc19ec1e40043458718fe55fcad1f027f9fc6ae2d8ef9f0669",
         "signature": "031b6c0ffa2d201ad9bdce37175e894ac3dfea4082be9dba1235a596de9c3581"
       },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": {
+        "version": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba",
+        "signature": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba"
+      },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts": {
-        "version": "385eaef67d0b5879518232841ce068d70316d8bc583db6abc1b4d41863e20bb2",
-        "signature": "d085c1d8ada57d70f17b993420999ec1e8c757f29ae786af4fd70498da2f695d"
+        "version": "0a8d418f15d9cb6bb6fff02279b781d33b4ef1fce9c852c4d0cf0b3b278735a1",
+        "signature": "c3e40877a1f5f1b6319a113f6ebea168e44acc38742634e95d738d2b29057831"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.dto.ts": {
         "version": "657d6053ee013f1e89570a940d674c66dc44b460c43e4fcf9cce0e06b82e937c",
@@ -5626,8 +5630,13 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -9231,6 +9240,10 @@
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.dto.ts"
       ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.service.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts",
@@ -10023,11 +10036,8 @@
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.module.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.dto.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.controller.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.module.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/app.module.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/adapters/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/core/constants.d.ts",
@@ -10069,7 +10079,11 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/json5/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/superagent/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/supertest/index.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.service.ts"
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.service.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.controller.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.module.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/app.module.ts"
     ]
   },
   "version": "3.4.3"
