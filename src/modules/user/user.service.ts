@@ -2,9 +2,7 @@ import { Injectable, BadRequestException, NotFoundException } from '@nestjs/comm
 import { InjectRepository } from '@nestjs/typeorm';
 import { User } from './user.entity'; 
 import { Repository } from 'typeorm';
-import { UserDto } from './user.dto';
-import { async } from 'rxjs/internal/scheduler/async';
-import { UpdatePasswordDto } from '../../../dist/modules/user/user.dto';
+import { UserDto, UpdatePasswordDto } from './user.dto';
 
 @Injectable()
 export class UserService {
@@ -53,5 +51,9 @@ export class UserService {
         entity.password = newPassword;
         
         return await this.userRepository.save(entity);
+    }
+
+    async findByName(name: string) {
+        return await this.userRepository.findOne({ name });
     }
 }
