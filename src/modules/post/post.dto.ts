@@ -1,4 +1,4 @@
-export class PostDto{
-    readonly title: string;
-    readonly body: string;
+export class PostDto {
+  readonly title: string;
+  readonly body: string;
 }

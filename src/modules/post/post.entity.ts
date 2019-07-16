@@ -1,19 +1,19 @@
 import { Entity, PrimaryGeneratedColumn, Column, CreateDateColumn, UpdateDateColumn } from 'typeorm';
 
-@Entity('posts')
+@Entity()
 export class Post {
-    @PrimaryGeneratedColumn()
-    id: number;
+  @PrimaryGeneratedColumn()
+  id: number;
 
-    @Column()
-    title: string;
+  @Column()
+  title: string;
 
-    @Column('longtext', { nullable: true })
-    body: string;
+  @Column('longtext', { nullable: true })
+  body: string;
 
-    @CreateDateColumn()
-    created: Date;
+  @CreateDateColumn()
+  created: Date;
 
-    @UpdateDateColumn()
-    updated: Date;
+  @UpdateDateColumn()
+  updated: Date;
 }
