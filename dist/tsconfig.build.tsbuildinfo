@@ -2174,8 +2174,8 @@
         "signature": "e6a8d52a32820289984efeed61a9b9bf43d3d0094c9cc331b6181adf047b4fa8"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts": {
-        "version": "e91eb752407f2f74dd47ac6c1506bdb5f87e6827ea93a819999053bb5d9639d5",
-        "signature": "d24d3bb428f02da9930fce027fb5f865001a68a8cc0a18fff2d79b115f47fd14"
+        "version": "7185725502d9772691a987097b2a11d9d07213a58e15404c5f0ce3ca5f10ac3b",
+        "signature": "d7db4c099116a1b68e8bc83f08ecc9f17be6d52bfef6bbfa240f3f83a1efad14"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/jsonwebtoken/index.d.ts": {
         "version": "3ee1c4479498ce568cf7789174c181a68a7f7f16f7b338132ded0daf24a8a971",
@@ -5887,6 +5887,7 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/core/decorators/user.decorator.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/rxjs/internal/scheduler/async.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
