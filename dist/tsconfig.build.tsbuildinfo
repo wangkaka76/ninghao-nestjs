@@ -2089,9 +2089,45 @@
         "version": "cceb73c2b698345b02dbd0c979e445a60f32a02ce9cc013436c9653af6a9ac9a",
         "signature": "36c8cbba4e4407893f71c20d902e9531a535397cfe4f25839f14b9a177afde2c"
       },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": {
+        "version": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba",
+        "signature": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba"
+      },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts": {
+        "version": "d89af0c250e1424959162beae79f2c2745c729d6ab8028503d322395d96d3a2b",
+        "signature": "d89af0c250e1424959162beae79f2c2745c729d6ab8028503d322395d96d3a2b"
+      },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts": {
+        "version": "96589ead67dc132731ddb531c3c7de2e66156df7154b1136d1abd92bdaa27e79",
+        "signature": "96589ead67dc132731ddb531c3c7de2e66156df7154b1136d1abd92bdaa27e79"
+      },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts": {
+        "version": "1aed251ab92dfd0e4901b3b9ad5eccdeb4d3603d57af947ae5f1de967f5ffa6e",
+        "signature": "1aed251ab92dfd0e4901b3b9ad5eccdeb4d3603d57af947ae5f1de967f5ffa6e"
+      },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts": {
+        "version": "fc14f591b59444c787440f6d8d4df6d96a2eafd8dcb8f3d9773d2d52a88db64f",
+        "signature": "fc14f591b59444c787440f6d8d4df6d96a2eafd8dcb8f3d9773d2d52a88db64f"
+      },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts": {
+        "version": "1fa98f06f8163fef61071f77e47ad2b7dd26064a43e219a4468df563e911caf3",
+        "signature": "1fa98f06f8163fef61071f77e47ad2b7dd26064a43e219a4468df563e911caf3"
+      },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts": {
+        "version": "cc8aa0870a0defda3818676ecb8123b2d8b15dc40cdc130834bc81b01a58f2e4",
+        "signature": "cc8aa0870a0defda3818676ecb8123b2d8b15dc40cdc130834bc81b01a58f2e4"
+      },
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts": {
+        "version": "097d4bf3331df1e138ffdcf92e1117f6841bc8337170d927fd955d5ee8a1674b",
+        "signature": "097d4bf3331df1e138ffdcf92e1117f6841bc8337170d927fd955d5ee8a1674b"
+      },
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts": {
+        "version": "57f7deb1bc3f4bb319888b9adce4f44f4697ce812515346269a16ba5d47a00e7",
+        "signature": "5a3f8d40d5b9cdef785fc399fed9f04ff288f66cc529992b0ca96638b18fc606"
+      },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts": {
-        "version": "b6db4c29ed54ad6064bcb41b837535af419248adc65477f85e3956bde6b668f0",
-        "signature": "4e70b008854b2540da70a82386f822a8d666acc711c4b2807faef200eada11a9"
+        "version": "a875c251fcc50298f5de6dc7ce38522ab7175dd6cab190440aadc4d1c4a2fc35",
+        "signature": "0b7b75ebb523ad18ba1faabc32c1446d1c99e67c24d34335d4fa3c9db50acfa2"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts": {
         "version": "ba63131c5e91f797736444933af16ffa42f9f8c150d859ec65f568f037a416ea",
@@ -2133,9 +2169,13 @@
         "version": "a2b176f66f0b708241265fb3b417597c9c9d21912bbb7f5cc00d99af551c2078",
         "signature": "a2b176f66f0b708241265fb3b417597c9c9d21912bbb7f5cc00d99af551c2078"
       },
+      "/users/wanglihui/desktop/ninghao-nestjs/src/core/decorators/user.decorator.ts": {
+        "version": "eace6347838daa68de13deaa42d6a78ef5a8c14619bcc77c7a45574694e79530",
+        "signature": "e6a8d52a32820289984efeed61a9b9bf43d3d0094c9cc331b6181adf047b4fa8"
+      },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts": {
-        "version": "9dfd49b2e8f83b349bfbbae932ae397c0d4107d930689bc696779de107256723",
-        "signature": "f1254715fc1a0426f51e0129894942e2d99898a9fb4650f0c8978a195f19fdc7"
+        "version": "e91eb752407f2f74dd47ac6c1506bdb5f87e6827ea93a819999053bb5d9639d5",
+        "signature": "d24d3bb428f02da9930fce027fb5f865001a68a8cc0a18fff2d79b115f47fd14"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/jsonwebtoken/index.d.ts": {
         "version": "3ee1c4479498ce568cf7789174c181a68a7f7f16f7b338132ded0daf24a8a971",
@@ -2165,48 +2205,12 @@
         "version": "a2b176f66f0b708241265fb3b417597c9c9d21912bbb7f5cc00d99af551c2078",
         "signature": "a2b176f66f0b708241265fb3b417597c9c9d21912bbb7f5cc00d99af551c2078"
       },
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": {
-        "version": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba",
-        "signature": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts": {
-        "version": "d89af0c250e1424959162beae79f2c2745c729d6ab8028503d322395d96d3a2b",
-        "signature": "d89af0c250e1424959162beae79f2c2745c729d6ab8028503d322395d96d3a2b"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts": {
-        "version": "96589ead67dc132731ddb531c3c7de2e66156df7154b1136d1abd92bdaa27e79",
-        "signature": "96589ead67dc132731ddb531c3c7de2e66156df7154b1136d1abd92bdaa27e79"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts": {
-        "version": "1aed251ab92dfd0e4901b3b9ad5eccdeb4d3603d57af947ae5f1de967f5ffa6e",
-        "signature": "1aed251ab92dfd0e4901b3b9ad5eccdeb4d3603d57af947ae5f1de967f5ffa6e"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts": {
-        "version": "fc14f591b59444c787440f6d8d4df6d96a2eafd8dcb8f3d9773d2d52a88db64f",
-        "signature": "fc14f591b59444c787440f6d8d4df6d96a2eafd8dcb8f3d9773d2d52a88db64f"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts": {
-        "version": "1fa98f06f8163fef61071f77e47ad2b7dd26064a43e219a4468df563e911caf3",
-        "signature": "1fa98f06f8163fef61071f77e47ad2b7dd26064a43e219a4468df563e911caf3"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts": {
-        "version": "cc8aa0870a0defda3818676ecb8123b2d8b15dc40cdc130834bc81b01a58f2e4",
-        "signature": "cc8aa0870a0defda3818676ecb8123b2d8b15dc40cdc130834bc81b01a58f2e4"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts": {
-        "version": "097d4bf3331df1e138ffdcf92e1117f6841bc8337170d927fd955d5ee8a1674b",
-        "signature": "097d4bf3331df1e138ffdcf92e1117f6841bc8337170d927fd955d5ee8a1674b"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts": {
-        "version": "871d721c61c8a51c105951a93f797d91352ac56ed2b83b5a6126b5fd7b63145b",
-        "signature": "3e8d6897b734071e24ec89e715970714cf14d6d4d260c868b521a83d6a569f8e"
-      },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.dto.ts": {
         "version": "d9f9602d3e519d2672894f85c9713588000c604a97cd0cce106a3376a11f742a",
         "signature": "aa431ad103d514fdd7ef4540aaeca08fb197764937cbf3ad8c6545bca88d0ea7"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.service.ts": {
-        "version": "0bba697cc7c7162d80059b916db0858b8511b95c55af403e39cbedf892959f28",
+        "version": "c152d6d33a20ef9f243dc46db4cb15042527d1c603d10e3823644eb30ad2eda7",
         "signature": "bb8e08096420a86fa40c5cefe6d2eeac7dd1d24069facf391e49ce2ec1b46b97"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/auth/auth.dto.ts": {
@@ -2216,10 +2220,6 @@
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/auth/auth.service.ts": {
         "version": "571af40fc3f39d74bf43b4af920e8b52046e1888133a52a4f8587629a3e857a3",
         "signature": "f18be5c3c65f0fe740f1fc63ce77dbb41fc35b222df762a79ba29be5dcad506f"
-      },
-      "/users/wanglihui/desktop/ninghao-nestjs/src/core/decorators/user.decorator.ts": {
-        "version": "eace6347838daa68de13deaa42d6a78ef5a8c14619bcc77c7a45574694e79530",
-        "signature": "e6a8d52a32820289984efeed61a9b9bf43d3d0094c9cc331b6181adf047b4fa8"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/auth/auth.controller.ts": {
         "version": "2a5392f61b18fa8132b8268eafa33703911fff03ff18ab56ae946e8c751c1771",
@@ -5758,12 +5758,65 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/os.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/common/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.dto.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -5822,11 +5875,18 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/wanglihui/desktop/ninghao-nestjs/src/core/decorators/user.decorator.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/common/index.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.controller.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/common/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.dto.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/index.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/src/core/decorators/user.decorator.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -5872,58 +5932,6 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/os.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.dto.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
@@ -5946,11 +5954,6 @@
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.service.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/auth/auth.dto.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/jwt/index.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/src/core/decorators/user.decorator.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/common/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -9592,10 +9595,69 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts"
+      ],
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.dto.ts"
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.dto.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts"
       ],
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
@@ -9656,7 +9718,8 @@
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.service.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.dto.ts"
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.dto.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts"
       ],
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/jsonwebtoken/index.d.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/index.d.ts",
@@ -9699,52 +9762,6 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/jwt/dist/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.entity.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts"
       ],
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.service.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/typeorm/index.d.ts",
@@ -10045,18 +10062,6 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/superagent/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
@@ -10579,6 +10584,14 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/dist/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/typeorm/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.dto.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/dist/interfaces/type.interface.d.ts",
@@ -10589,6 +10602,7 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/dist/passport/passport.strategy.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/dist/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/passport/index.d.ts",
+      "/users/wanglihui/desktop/ninghao-nestjs/src/core/decorators/user.decorator.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/jsonwebtoken/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/jwt/dist/interfaces/index.d.ts",
@@ -10596,17 +10610,8 @@
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/jwt/dist/jwt.service.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/jwt/dist/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/jwt/index.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformoptions.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/classtransformer.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/exposeexcludeoptions.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/metadata/typemetadata.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/transformoperationexecutor.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/decorators.d.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/node_modules/class-transformer/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.dto.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/auth/auth.dto.ts",
-      "/users/wanglihui/desktop/ninghao-nestjs/src/core/decorators/user.decorator.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/range-parser/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/express-serve-static-core/index.d.ts",
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/mime/index.d.ts",
