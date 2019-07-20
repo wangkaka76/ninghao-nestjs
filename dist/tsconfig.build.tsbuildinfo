@@ -2210,8 +2210,8 @@
         "signature": "aa431ad103d514fdd7ef4540aaeca08fb197764937cbf3ad8c6545bca88d0ea7"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.service.ts": {
-        "version": "c152d6d33a20ef9f243dc46db4cb15042527d1c603d10e3823644eb30ad2eda7",
-        "signature": "bb8e08096420a86fa40c5cefe6d2eeac7dd1d24069facf391e49ce2ec1b46b97"
+        "version": "3098892414025be6aa043a771ecb6fef26ec38b77da5ad9e891d39eaba346460",
+        "signature": "05eb3a9f87074eab447624922be3f1ecafe3572e3317e5d072bde983fdcb7e89"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/auth/auth.dto.ts": {
         "version": "addd77c508cc0af767dd99d5bf90bec320402cfd30f8e942a6ac0e534e92bb63",
@@ -2226,8 +2226,8 @@
         "signature": "fd82fcf364f1a372897b5575e565218f46d728dde91ac20c1aee594c0e18647d"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.controller.ts": {
-        "version": "ddedd91f1e0c457426e40d91d3b98dd0e4a089faa1b74d6985362c1c85b36a11",
-        "signature": "e8ba2ee633c6e793dca1afe9905135da6f87931ca5c9742fc0763e273b1f5d6c"
+        "version": "b91a2cc5d1a149b106a202240fcaa249aac4652dc719af9e040037a52b43eb83",
+        "signature": "8b41d9f82d28cf1c5995fe5be03434fb4fc7751965c29fa7b8eb691428014132"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.module.ts": {
         "version": "afd80475f7947d819110c03ddbc3e005a6994a1eb221ae2219579f2e73261618",
@@ -5971,6 +5971,7 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@nestjs/common/index.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.service.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/src/modules/user/user.dto.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/rxjs/internal/scheduler/async.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
