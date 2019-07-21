@@ -25,7 +25,9 @@ export class UserService {
   }
 
   async show(id: string) {
-    const entity = await this.userRepository.findOne(id);
+    const entity = await this.userRepository.findOne(id,{
+      relations: ['posts']
+    });
 
     if (!entity) {
       throw new NotFoundException('没找到用户。');
@@ -55,5 +57,10 @@ export class UserService {
 
   async findByName(name: string) {
     return await this.userRepository.findOne({ name });
+  }
+
+  async liked(id: number) {
+    return this.userRepository
+    .findOne(id, {relations: ['voted', 'voted.user']});
   }
 }
