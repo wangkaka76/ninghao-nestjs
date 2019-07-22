@@ -2074,12 +2074,12 @@
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts": {
-        "version": "4a049cf30c883c9fb2b9ebf6f74814e17a54bf57d34cc3c24192499b7e52a366",
-        "signature": "4a049cf30c883c9fb2b9ebf6f74814e17a54bf57d34cc3c24192499b7e52a366"
+        "version": "cb499244b4542784742e90819b26e87b69ffffc3622eed4ad2883d3841417a33",
+        "signature": "cb499244b4542784742e90819b26e87b69ffffc3622eed4ad2883d3841417a33"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts": {
-        "version": "3e8d6897b734071e24ec89e715970714cf14d6d4d260c868b521a83d6a569f8e",
-        "signature": "3e8d6897b734071e24ec89e715970714cf14d6d4d260c868b521a83d6a569f8e"
+        "version": "5a3f8d40d5b9cdef785fc399fed9f04ff288f66cc529992b0ca96638b18fc606",
+        "signature": "5a3f8d40d5b9cdef785fc399fed9f04ff288f66cc529992b0ca96638b18fc606"
       },
       "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts": {
         "version": "4035b37b816c220b79830c6990fe53b1e197d2535fbbcecf91756ff654b2eebb",
@@ -5740,6 +5740,7 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -9598,18 +9599,6 @@
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
-        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/wanglihui/desktop/ninghao-nestjs/src/modules/post/post.entity.ts": [
-        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts"
-      ],
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/bcrypt/index.d.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
@@ -10063,6 +10052,16 @@
       ],
       "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/supertest/index.d.ts": [
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/superagent/index.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
+        "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/user/user.entity.d.ts": [
+        "/users/wanglihui/desktop/ninghao-nestjs/dist/modules/post/post.entity.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/util.d.ts",
         "/users/wanglihui/desktop/ninghao-nestjs/node_modules/@types/node/ts3.2/util.d.ts"
       ]
