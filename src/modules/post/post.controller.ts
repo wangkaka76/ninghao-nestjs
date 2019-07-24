@@ -1,10 +1,12 @@
-import { Controller, Body, Post, Get, Param, Put, Delete, UseGuards, UseInterceptors, ClassSerializerInterceptor, ParseIntPipe, Query } from '@nestjs/common';
+import { Controller, Body, Post, Get, Param, Put, Delete, UseGuards, UseInterceptors, ClassSerializerInterceptor, ParseIntPipe, Query, Options } from '@nestjs/common';
 import { PostService } from './post.service';
 import { PostDto } from './post.dto';
 import { AuthGuard } from '@nestjs/passport';
 import { User } from '../../core/decorators/user.decorator';
 import { User as UserEntity } from '../user/user.entity';
 import { async } from 'rxjs/internal/scheduler/async';
+import { ListOptions } from '../../core/decorators/list-options.decorator';
+import { ListOptionsInterface } from '../../core/interfaces/list-options.interface';
 
 @Controller('posts')
 export class PostController {
@@ -21,9 +23,9 @@ export class PostController {
   @Get()
   @UseInterceptors(ClassSerializerInterceptor)
   async index(
-    @Query('categories') categories: string
+    @ListOptions() Options: ListOptionsInterface
   ) {
-    return await this.postService.index(categories);
+    return await this.postService.index(Options);
   }
 
   @Get(':id')
