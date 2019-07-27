@@ -2,7 +2,7 @@ import { Entity, PrimaryGeneratedColumn, Column, CreateDateColumn, UpdateDateCol
 import * as bcrypt from 'bcrypt';
 // import * as bcrypt from 'bcryptjs';
 import { Exclude } from 'class-transformer';
-import { type } from 'os';
+
 import { Post } from '../post/post.entity';
 
 @Entity()
