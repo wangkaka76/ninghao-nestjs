@@ -83,7 +83,7 @@ export class PostService {
       .skip(limit * (page - 1));
 
 
-    const entities = queryBuilder.getMany();
+    const entities = queryBuilder.getManyAndCount();
     return entities;
     
   }
