@@ -24,7 +24,7 @@ export class PostController {
   @Get()
   @UseInterceptors(ClassSerializerInterceptor, TransformInterceptor)
   async index(
-    @ListOptions({ limit: 2 }) Options: ListOptionsInterface
+    @ListOptions({ limit: 3, sort: 'updated', order: 'DESC' }) Options: ListOptionsInterface
   ) {
     return await this.postService.index(Options);
   }
