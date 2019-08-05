@@ -5,7 +5,7 @@ import { Exclude } from 'class-transformer';
 
 import { Post } from '../post/post.entity';
 import { Comment } from '../comment/comment.entity';
-import { Role } from '../../../dist/modules/role/role.entity';
+import { Role } from '../role/role.entity';
 
 @Entity()
 export class User {
