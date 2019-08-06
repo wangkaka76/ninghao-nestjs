@@ -3,6 +3,7 @@ import { UserService } from './user.service';
 import { UserDto, UpdatePasswordDto } from './user.dto';
 import { async } from 'rxjs/internal/scheduler/async';
 import { AuthGuard } from '@nestjs/passport';
+import { AccessGuard } from '../../core/guards/access.guard';
 
 @Controller('users')
 export class UserController {
@@ -34,7 +35,7 @@ export class UserController {
   }
 
   @Put(':id')
-  @UseGuards(AuthGuard())
+  @UseGuards(AuthGuard(), AccessGuard)
   async update(
     @Param('id', ParseIntPipe) id: number,
     @Body() data: UserDto
