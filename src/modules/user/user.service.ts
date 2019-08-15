@@ -59,7 +59,9 @@ export class UserService {
     const queryBuilder = await this.userRepository
      .createQueryBuilder('user');
 
-    queryBuilder.where('user.name = :name', { name });
+    queryBuilder
+    .where('user.name = :name', { name })
+    .leftJoinAndSelect('user.roles', 'roles');
 
     if (password) {
       queryBuilder.addSelect('user.password');
@@ -73,5 +75,32 @@ export class UserService {
   async liked(id: number) {
     return this.userRepository
     .findOne(id, {relations: ['voted', 'voted.user']});
+  }
+
+  async update(id: number, data: UserDto) {
+    const { roles } = data;
+
+    const entity = await this.userRepository.findOne(id);
+
+    if (roles) {
+      entity.roles = roles;
+    }
+
+    return await this.userRepository.save(entity);
+  }
+
+  async possess(
+    id: number,
+    resource: string,
+    resourceId: number
+  ) {
+    const result = await this.userRepository
+      .createQueryBuilder('user')
+      .where('user.id = :id', {id})
+      .leftJoin(`user.${resource}`, resource)
+      .andWhere(`${resource}.id = :resourceId`, {resourceId})
+      .getCount();
+
+    return result === 1 ? true : false;
   }
 }

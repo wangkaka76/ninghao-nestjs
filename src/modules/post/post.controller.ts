@@ -4,10 +4,15 @@ import { PostDto } from './post.dto';
 import { AuthGuard } from '@nestjs/passport';
 import { User } from '../../core/decorators/user.decorator';
 import { User as UserEntity } from '../user/user.entity';
-import { async } from 'rxjs/internal/scheduler/async';
+
 import { ListOptions } from '../../core/decorators/list-options.decorator';
 import { ListOptionsInterface } from '../../core/interfaces/list-options.interface';
 import { TransformInterceptor } from '../../core/interceptors/transform.interceptor';
+import { AccessGuard } from '../../core/guards/access.guard';
+import { Possession } from '../../core/enums/possession.enum';
+import { Resource } from '../../core/enums/resource.enum';
+import { Permissions } from '../../core/decorators/permissions.decorator';
+import { UserRole } from '../../core/enums/user-role.enum';
 
 @Controller('posts')
 export class PostController {
@@ -35,7 +40,12 @@ export class PostController {
   }
 
   @Put(':id')
-  async update(@Param('id') id: string, @Body() data: Partial<PostDto>) {
+  @UseGuards(AuthGuard(), AccessGuard)
+  @Permissions({ resource: Resource.POST, possession: Possession.OWN, role: UserRole.VIP })
+  async update(
+    @Param('id') id: string,
+    @Body() data: Partial<PostDto>
+    ) {
     return await this.postService.update(id, data);
   }
 
