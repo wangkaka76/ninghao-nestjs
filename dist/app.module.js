@@ -13,6 +13,10 @@ const app_service_1 = require("./app.service");
 const post_module_1 = require("./modules/post/post.module");
 const user_module_1 = require("./modules/user/user.module");
 const auth_module_1 = require("./modules/auth/auth.module");
+const category_module_1 = require("./modules/category/category.module");
+const tag_module_1 = require("./modules/tag/tag.module");
+const comment_module_1 = require("./modules/comment/comment.module");
+const role_module_1 = require("./modules/role/role.module");
 let AppModule = class AppModule {
 };
 AppModule = __decorate([
@@ -21,7 +25,11 @@ AppModule = __decorate([
             typeorm_1.TypeOrmModule.forRoot(),
             post_module_1.PostModule,
             user_module_1.UserModule,
-            auth_module_1.AuthModule
+            auth_module_1.AuthModule,
+            category_module_1.CategoryModule,
+            tag_module_1.TagModule,
+            comment_module_1.CommentModule,
+            role_module_1.RoleModule
         ],
         controllers: [app_controller_1.AppController],
         providers: [app_service_1.AppService],
